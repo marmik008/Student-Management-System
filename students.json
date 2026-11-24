@@ -1,0 +1,23 @@
+[
+    {
+        "id": "101",
+        "name": "Marmik Prajapati",
+        "branch": "Computer Engineering",
+        "marks": 84,
+        "attendance": 88
+    },
+    {
+        "id": "102",
+        "name": "Manan Patel",
+        "branch": "Computer Engineering",
+        "marks": 79,
+        "attendance": 82
+    },
+    {
+        "id": "103",
+        "name": "Rohan Shah",
+        "branch": "IT",
+        "marks": 35,
+        "attendance": 60
+    }
+]
